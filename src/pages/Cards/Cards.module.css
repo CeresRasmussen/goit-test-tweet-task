@@ -5,8 +5,8 @@
   text-align: center;
 }
 .cards-wrapper {
-  display: flex;
+  display: grid;
   justify-content: center;
-  flex-wrap: wrap;
-  gap: 25px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 25px;
 }
