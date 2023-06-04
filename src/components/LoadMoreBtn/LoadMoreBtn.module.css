@@ -16,6 +16,7 @@
   color: #fff;
   border: 0;
   text-decoration: none;
+  text-transform: capitalize;
   cursor: pointer;
   font-family: inherit;
   font-size: 18px;
